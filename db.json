@@ -1,0 +1,18 @@
+{
+    "data" : {
+        "IP-адрес абонента": "ipaddress",
+        "Маска подсети": "ipnetmask",
+        "MAC-адрес абонента": "macaddress",
+        "MAC-адрес ТКД": "switchmac",
+        "Порт ТКД": "switchport",
+        "VLAN ТКД": "switchvlan",
+        "Interface": "interface",
+        "Session ID": "sessionid",
+        "Dynamic Profile Name": "dynamicprofilename",
+        "Circuit ID": "circuitid",
+        "Remote ID": "remoteid",
+        "Время подключения": "logintime",
+        "rawOutput": {"Service": "Service Session ID: 3892524\n    Service Session Name: unlim\n    Service Session Version: 1\n    State: Active\n    Family: inet\n    IPv4 Input Filter Name: ff-srv-inet-up-102400000_UID1001-demux0.3222261006-in\n    IPv4 Output Filter Name: ff-srv-inet-down-102400000_UID1003-demux0.3222261006-out\n    Service Activation time: 2020-05-15 02:45:08 GMT-3\n    Accounting interval service: 5400\n    Dynamic configuration: \n        burst-in: 7680000\n        burst-out: 7680000\n        ff-in: ff-srv-inet-up-102400000_UID1001\n        ff-out: ff-srv-inet-down-102400000_UID1003\n        inBW: 102400000\n        outBW: 102400000\n        plr-in: plr-up-102400000_UID1000\n        plr-out: plr-down-102400000_UID1002\n\nService Session ID: 3892525\n    Service Session Name: unlim-night\n    Service Session Version: 1\n    State: Active\n    Family: inet\n    IPv4 Input Filter Name: ff-srv-unlim-night-in-demux0.3222261006-in\n    IPv4 Output Filter Name: ff-srv-unlim-night-out-demux0.3222261006-out\n    Service Activation time: 2020-05-15 02:45:08 GMT-3\n    Accounting interval service: 10800"
+        }
+    }
+}
